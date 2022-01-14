@@ -41,15 +41,17 @@ main > section button {
     padding: 9px 23px;
     text-transform: uppercase;
 }
+
 button:active {
     box-shadow: none;
     transform: translateY(10px);  
 }
 
 #detalhes-container {
+    color: whitesmoke;
     font-weight: bold;
     list-style-type: none;
     text-align: center;
-    width: 80%;   
+    width: 80%;
 }
 
